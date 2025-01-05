@@ -1,22 +1,16 @@
-# Interdisciplinary Minors Project Abstract: Siren app
- 
+# INTERDISCIPLINARY PROJECT ABSTRACT : SIREN APP
+
 # OVERVIEW
 The “Siren” app stands as a pioneering solution dedicated to safeguarding teenagers in their online interactions, fostering a secure & positive social media experience. By employing advanced technologies like machine learning & natural language processing, the app proactively identifies potential predatory behaviour through the analysis of linguistic patterns, behaviour shifts, sentiment analysis & profile & media content. The real-time alert system, driven by AI sentiment analysis, not only promptly notifies teenagers but also involves designated guardians in addressing potential threats. Crucially, Siren goes beyond mere detection by empowering teenagers through an educational platform covering online safety, healthy relationships, & manipulation recognition. The customizable alert thresholds & robust privacy protection mechanisms ensure tailored safety settings, granting users control over their online environment. As the app continuously evolves through machine learning improvements, user feedback mechanisms, & potential community support features, Siren seeks to create a digital space where teenagers can engage safely & confidently through social media, enhancing their overall well-being in the digital age.
 
 # TECH INNOVATIONS:
-    The "Siren" project incorporates several innovative technologies to address the issue of online predation and enhance the safety of teenagers in their online interactions. These tech innovations include:
-    
-    Machine Learning and Natural Language Processing (NLP): Siren utilizes machine learning algorithms and natural language processing techniques to analyze linguistic patterns, behavior shifts, and sentiment in user interactions. By leveraging these advanced technologies, the app can proactively identify potential predatory behavior and alert users in real-time.
-    
-    Image Recognition Algorithms: The project incorporates image recognition algorithms to scrutinize profile pictures and posted content for inconsistencies or signs of fake profiles. This innovative approach allows Siren to identify anomalies or reused content associated with fake profiles, enhancing its ability to detect predatory behavior.
-    
-    Real-Time Alert System: Siren features a real-time alert system driven by AI sentiment analysis. This system promptly notifies teenagers and designated guardians about potential predatory behavior, ensuring swift response to potential threats. By leveraging real-time analysis of user interactions, Siren enhances its effectiveness in safeguarding users from online predators.
-    
-    Educational Platform: In addition to detection and alert mechanisms, Siren incorporates an educational platform covering online safety, healthy relationships, and manipulation recognition. This innovative approach empowers teenagers with knowledge and resources to recognize and respond to potential threats independently, fostering a safer online environment.
-    
-    Continuous Machine Learning Improvement: The project includes plans for continuous machine learning improvement, aiming to regularly update and improve the ML models based on new data and insights. By incorporating ongoing research in psychology and online behaviour, Siren ensures its effectiveness in detecting and preventing online predation.
-    
-    User Feedback Mechanism: Siren implements a user feedback mechanism to gather feedback from users and improve the accuracy of alerts and the overall user experience. This innovative approach allows Siren to adapt and refine its detection algorithms based on real-world user interactions and feedback.
+1. The "Siren" project incorporates several innovative technologies to address the issue of online predation and enhance the safety of teenagers in their online interactions. These tech innovations include:
+2. Machine Learning and Natural Language Processing (NLP): Siren utilizes machine learning algorithms and natural language processing techniques to analyze linguistic patterns, behavior shifts, and sentiment in user interactions. By leveraging these advanced technologies, the app can proactively identify potential predatory behavior and alert users in real-time.
+3. Image Recognition Algorithms: The project incorporates image recognition algorithms to scrutinize profile pictures and posted content for inconsistencies or signs of fake profiles. This innovative approach allows Siren to identify anomalies or reused content associated with fake profiles, enhancing its ability to detect predatory behavior.
+4. Real-Time Alert System: Siren features a real-time alert system driven by AI sentiment analysis. This system promptly notifies teenagers and designated guardians about potential predatory behavior, ensuring swift response to potential threats. By leveraging real-time analysis of user interactions, Siren enhances its effectiveness in safeguarding users from online predators.
+5. Educational Platform: In addition to detection and alert mechanisms, Siren incorporates an educational platform covering online safety, healthy relationships, and manipulation recognition. This innovative approach empowers teenagers with knowledge and resources to recognize and respond to potential threats independently, fostering a safer online environment.
+6. Continuous Machine Learning Improvement: The project includes plans for continuous machine learning improvement, aiming to regularly update and improve the ML models based on new data and insights. By incorporating ongoing research in psychology and online behaviour, Siren ensures its effectiveness in detecting and preventing online predation.
+7. User Feedback Mechanism: Siren implements a user feedback mechanism to gather feedback from users and improve the accuracy of alerts and the overall user experience. This innovative approach allows Siren to adapt and refine its detection algorithms based on real-world user interactions and feedback.
 
 # PROOF OF CONCEPT FRAMEWORK:
 
@@ -60,7 +54,7 @@ Continuous Improvement and User Feedback Mechanism:
 Implement mechanisms for continuous improvement of machine learning models based on user feedback and new data insights.
 Collect feedback from users through surveys, ratings, and reviews to enhance the accuracy of alerts and overall user experience.
 
-Block Diagram/Flow chart of Siren:
+### Block Diagram/Flow chart of Siren:
 ![image](https://github.com/user-attachments/assets/a45cfb02-ca93-4830-bf3a-85eaa78adab0)
 
 ### Core Value Proposition:
