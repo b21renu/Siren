@@ -1,4 +1,5 @@
-# INTERDISCIPLINARY PROJECT ABSTRACT : SIREN APP - An AI-Powered App to Detect Online Predators
+# SIREN APP - An AI-Powered App to Detect Online Predator
+### INTERDISCIPLINARY PROJECT*
 **SIREN** is a real-time mobile application designed to detect and mitigate online predatory behavior targeting teenagers. It combines **machine learning**, **natural language processing**, and **sentiment/context analysis** to analyze chats, profile data, and behavioral cues for early threat detection.
 
 ### Objective
